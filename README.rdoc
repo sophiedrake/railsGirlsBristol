@@ -1,4 +1,3 @@
 == README
 
 A Ruby on Rails app that was created during Rails Girls Bristol
-<tt>rake doc:app</tt>.
